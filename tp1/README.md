@@ -18,10 +18,15 @@ HTML es un lenguaje que se utiliza para el desarrollo de páginas de Internet. S
 
 **3. ¿Cuál es la utilidad e importancia de los enlaces o links entre páginas? ¿Qué significa hipertexto? ¿Un link solo puede apuntar a otra página? ¿Qué importancia tiene esto último?**
 
-Los enlaces permiten una forma simple,rápida y comoda para navegar dentro de un mismo sitio o entre sitios sin necesidad de recordar los enlaces al recurso solicitado. 
+Los enlaces permiten una forma simple,rápida y comoda para navegar dentro de un mismo sitio o entre sitios sin necesidad de recordar los enlaces al recurso solicitado. El hipertexto es texto con referencias (hipervínculos) a otros recursos a los cuales se puede acceder. Un hipervínculo puede apuntar a otra página o que puede hacer referencia a otro texto dentro de la misma página(marcadores).
 
-Sed sodales ex sit amet magna sagittis, non cursus libero iaculis. In hac habitasse platea dictumst. Nunc rhoncus dolor a leo interdum porttitor. Nam faucibus convallis facilisis. Aenean in sapien vel lorem mattis vestibulum vitae a leo. Aliquam lacinia enim justo, non tincidunt ex sodales ut. Mauris faucibus mi eget sagittis luctus. Praesent eget varius erat. Quisque porta sem sit amet augue vulputate, vitae vestibulum enim gravida.
 
 **4. ¿Qué es el Rendering Engine de un Browser? ¿Cuál es el que utiliza cada uno de los 5 browsers más conocidos (Chrome, Firefox, Safari, IE-Edge, Opera)? ¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?**
 
-Pellentesque ac ante non metus tristique pulvinar. Nunc lorem est, fringilla nec pretium et, dignissim vitae sem. Phasellus condimentum ultricies odio at dignissim. Sed laoreet leo a fermentum convallis. Cras et elementum metus, efficitur ultrices neque. Praesent blandit felis enim. Vivamus consequat scelerisque dapibus. Nullam ultricies, neque sit amet eleifend condimentum, justo magna interdum odio, id placerat enim neque et sem. Nullam dictum nunc at sollicitudin pulvinar. Curabitur orci libero, accumsan et nisi eu, ultrices iaculis dui.
+Un motor de motor de renderizado(Rendering Engine) es un software que toma contenido marcado (como HTML) e información sobre el formato (como CSS, XSL) y luego muestra el contenido ya formateado en la pantalla.  Los motores de renderizado se usan típicamente en navegadores web, clientes de correo electrónico, u otras aplicaciones que deban mostrar y editar contenidos web.
+* Google Chrome utiliza Blink desde la version 28
+* Mozilla Firefox utiliza Gecko
+* Safari utiliza WebCore
+* Microsoft Edge utiliza EdgeHTML
+* Opera utiliza Blink
+
