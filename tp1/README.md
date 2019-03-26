@@ -2,13 +2,23 @@
 
 **1. ¿Qué es un lenguaje de marcado? ¿Cuál es su utilidad? ¿Qué es un tag? ¿Qué es un atributo?**
 
-Los lenguajes de marcado estan oriendatos a definir la estructura y la semantica de un documento.
+Un lenguaje de marcado es un lenguaje donde el texto se encuentra etiquetado de cierta manera. De esta forma, las etiquetas se interpretan y le aportan una estructura al contenido. Los lenguajes de marcado estan orientados a definir la estructura y la semantica de un documento.
+ Los tags o etiquetas son palabras con significado que permiten identificar la forma y el tipo del contenido. Los atributos estan relacionados con las etiquetas, ya que controlan su comportamiento.
 
 **2. ¿Cuál es la utilidad de HTML? ¿Qué conjunto mínimo de tags debe contener un documento elaborado en este lenguaje? Describa brevemente su utilidad.**
 
-Mauris aliquet pharetra lacinia. Mauris est ante, viverra sit amet mauris a, malesuada malesuada odio. Ut iaculis tellus tincidunt justo semper vestibulum. Donec placerat diam ac lacinia sodales. Aliquam semper neque augue. Sed bibendum nisl sit amet nulla placerat ultricies. Curabitur ut accumsan sem, sit amet lacinia nibh.
+HTML es un lenguaje que se utiliza para el desarrollo de páginas de Internet. Se trata de la siglas que corresponden a HyperText Markup Language. El conjunto de tags minimos son:
+* \<!DOCTYPE html>
+* \<html>
+* \<head>
+* \<title></title>
+* \</head>
+* \<body></body>
+* \</html>
 
 **3. ¿Cuál es la utilidad e importancia de los enlaces o links entre páginas? ¿Qué significa hipertexto? ¿Un link solo puede apuntar a otra página? ¿Qué importancia tiene esto último?**
+
+Los enlaces permiten una forma simple,rápida y comoda para navegar dentro de un mismo sitio o entre sitios sin necesidad de recordar los enlaces al recurso solicitado. 
 
 Sed sodales ex sit amet magna sagittis, non cursus libero iaculis. In hac habitasse platea dictumst. Nunc rhoncus dolor a leo interdum porttitor. Nam faucibus convallis facilisis. Aenean in sapien vel lorem mattis vestibulum vitae a leo. Aliquam lacinia enim justo, non tincidunt ex sodales ut. Mauris faucibus mi eget sagittis luctus. Praesent eget varius erat. Quisque porta sem sit amet augue vulputate, vitae vestibulum enim gravida.
 
