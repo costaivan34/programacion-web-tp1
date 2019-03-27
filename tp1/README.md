@@ -15,6 +15,7 @@ HTML es un lenguaje que se utiliza para el desarrollo de páginas de Internet. S
 * \</head>
 * \<body></body>
 * \</html>
+
 **3. ¿Cuál es la utilidad e importancia de los enlaces o links entre páginas? ¿Qué significa hipertexto? ¿Un link solo puede apuntar a otra página? ¿Qué importancia tiene esto último?**
 
 Los enlaces permiten una forma simple,rápida y comoda para navegar dentro de un mismo sitio o entre sitios sin necesidad de recordar los enlaces al recurso solicitado. El hipertexto es texto con referencias (hipervínculos) a otros recursos a los cuales se puede acceder. Un hipervínculo puede apuntar a otra página o que puede hacer referencia a otro texto dentro de la misma página(marcadores).
