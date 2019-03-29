@@ -22,7 +22,7 @@ Los enlaces permiten una forma simple,rápida y comoda para navegar dentro de un
 
 **4. ¿Qué es el Rendering Engine de un Browser? ¿Cuál es el que utiliza cada uno de los 5 browsers más conocidos (Chrome, Firefox, Safari, IE-Edge, Opera)? ¿Cuál es la importancia de conocer cada uno de ellos en la construcción de un sitio?**
 
-Un motor de motor de renderizado(Rendering Engine) es un software que toma contenido marcado (como HTML) e información sobre el formato (como CSS, XSL) y luego muestra el contenido ya formateado en la pantalla. Los motores de renderizado se usan típicamente en navegadores web, clientes de correo electrónico, u otras aplicaciones que deban mostrar y editar contenidos web.
+Un motor de renderizado(Rendering Engine) es un software que toma contenido marcado (como HTML) e información sobre el formato (como CSS, XSL) y luego muestra el contenido ya formateado en la pantalla. Los motores de renderizado se usan típicamente en navegadores web, clientes de correo electrónico, u otras aplicaciones que deban mostrar y editar contenidos web.
 * Google Chrome utiliza Blink desde la version 28
 * Mozilla Firefox utiliza Gecko
 * Safari utiliza WebCore
